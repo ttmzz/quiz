@@ -76,3 +76,13 @@ button:focus {
     outline: none;
 }
 
+@media (max-width: 768px) {
+
+  img {
+    width: 200%;
+  }
+  .quiz-header {
+    padding:0;
+}
+
+}
